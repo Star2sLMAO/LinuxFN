@@ -1,2 +1,2 @@
-BACKEND: s13backend.truuu.repl.co (if they take it down: https://replit.com/@JohnShier1/s13backend)
+BACKEND: s13backend.truuu.repl.co
 "Configs": eclipticapi.raxterxpsycho.repl.co/configss (hacker repl, couldn't fork it.)
